@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 
 $startTime = microtime(true);
 $fileDir = dirname(__FILE__);
