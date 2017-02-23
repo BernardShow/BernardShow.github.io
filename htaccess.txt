@@ -1,4 +1,4 @@
-#	Mod_security can interfere with uploading of content such as attachments. If you
+﻿#	Mod_security can interfere with uploading of content such as attachments. If you
 #	cannot attach files, remove the "#" from the lines below.
 #<IfModule mod_security.c>
 #	SecFilterEngine Off

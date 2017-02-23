@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 
 // generates an rgba png based on colors in inputs, part of XenForo
 
